@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Contact me:
+title: Laila E. Phillips
 email: lphillips@utexas.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Laila E. Phillips: Host-microbe symbiosis researcher
