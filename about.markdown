@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
+nav_order: 2
 ---
 # Hey there! I'm Laila.
 I am an early-career researcher interested in studying host-microbe symbioses with a creative and interdisciplinary approach!
