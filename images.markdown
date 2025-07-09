@@ -2,6 +2,7 @@
 layout: page
 title: Illustrations
 permalink: /images/
+nav_order: 4
 ---
 
 # Illustration Gallery
