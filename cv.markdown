@@ -3,8 +3,6 @@ layout: page
 title: Curriculum Vitae
 permalink: /CV/
 ---
-# Curriculum Vitae
-
 📄 [Download CV (PDF)]({{ '/assets/CV_LailaPhillips_042925.pdf' | relative_url }})
 
 <object data="{{ '/assets/CV_LailaPhillips_042925.pdf' | relative_url }}"
