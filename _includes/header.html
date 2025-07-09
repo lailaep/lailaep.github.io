@@ -1,0 +1,20 @@
+<header class="site-header" role="banner">
+
+  <div style="display: flex; align-items: center; padding: 0.5rem 1rem;">
+    <img src="{{ '/assets/your-animated.gif' | relative_url }}"
+         alt="Under construction" width="30" height="30" style="margin-right: 0.5rem;">
+    <span style="font-size: 0.8rem; font-style: italic; color: #b33;">
+      Pardon the appearance — site under construction!
+    </span>
+  </div>
+
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
+      {{ site.title | escape }}
+    </a>
+
+    <nav class="site-nav">
+      {% include navigation.html %}
+    </nav>
+  </div>
+</header>
