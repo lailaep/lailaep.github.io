@@ -2,6 +2,7 @@
 layout: page
 title: Curriculum Vitae
 permalink: /CV/
+nav_order: 3
 ---
 📄 [Download CV (PDF)]({{ '/assets/CV_LailaPhillips_042925.pdf' | relative_url }})
 
