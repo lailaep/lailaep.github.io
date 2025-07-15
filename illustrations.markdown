@@ -15,12 +15,6 @@ You **may not** use them for commercial purposes.
 
 ### _Interested in commissioning a figure? Reach out!_
 ---
-📄 [Download PDF]({{ 'assets/illustrations/genetic_tools.pdf' | relative_url }})  
-<iframe src="{{ 'assets/illustrations/genetic_tools.pdf' | relative_url }}" width="100%" height="100%" style="border: 1px solid #ccc;"></iframe>
----
-📄 [Download PDF]({{ 'assets/illustrations/transformation.pdf' | relative_url }})  
-<iframe src="{{ 'assets/illustrations/transformation.pdf' | relative_url }}" width="100%" height="100%" style="border: 1px solid #ccc;"></iframe>
----
 <style>
 .pdf-gallery {
   display: flex;
