@@ -3,8 +3,9 @@ layout: home
 title: Welcome
 nav_order: 1
 ---
-# Hi, I'm Laila [E](https://www.youtube.com/watch?v=jsl3IBAsEH4){:target="_blank"}. Phillips!
+<img src="{{ 'assets/headshot_071525_sm.png' | relative_url }}" alt="Headshot" width="200" height="200" style="border-radius: 50%; display: block; margin: 0 auto 1em;" />
 
+# Hi, I'm Laila [E](https://www.youtube.com/watch?v=jsl3IBAsEH4){:target="_blank"}. Phillips!
 
 I am a PhD student in Dr. Nancy Moran's lab at The University of Texas at Austin, Austin, TX, USA.
 I am broadly interested in host-microbe symbioses, with a current focus on interactions between _Drosophila melanogaster_ and host-restricted symbionts (family: _Orbaceae_) we recently isolated from wild-caught flies! 
