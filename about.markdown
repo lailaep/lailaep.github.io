@@ -4,6 +4,7 @@ title: About Me
 permalink: /about/
 nav_order: 2
 ---
+<img src="{{ 'assets/headshot_071525_sm.png' | relative_url }}" alt="Headshot" width="350" height="350" style="border-radius: 50%; display: block; margin: 0 auto 1em;" />
 
 ## I am an early-career microbiologist interested in studying host-microbe symbioses with a creative and interdisciplinary approach!
 
