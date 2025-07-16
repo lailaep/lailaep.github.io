@@ -62,6 +62,10 @@ You **may not** use them for commercial purposes.
     <img src="{{ 'assets/illustrations/transformation_thumb.png' | relative_url }}" alt="Transformation PDF">
     <p>Transformation</p>
   </div>
+  <div class="pdf-gallery-item" onclick="loadPDF('{{ 'assets/illustrations/microbiome.pdf' | relative_url }}')">
+    <img src="{{ 'assets/illustrations/microbiome_thumb.png' | relative_url }}" alt="Transformation PDF">
+    <p>Transformation</p>
+  </div>
 </div>
 
 <div class="pdf-viewer" id="pdfViewer">
