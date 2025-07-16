@@ -4,8 +4,8 @@ title: Welcome
 nav_order: 1
 ---
 <div style="text-align: center; margin-top: 1rem;">
-  <img src="{{ 'assets/your-image.jpg' | relative_url }}"
-       alt="Your image description"
+  <img src="{{ 'assets/headshot_artsy_071625.png' | relative_url }}"
+       alt="Me and my buddies :-)"
        style="width: 100%; max-width: 500px; height: auto; aspect-ratio: auto;" />
 </div>
 
