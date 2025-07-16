@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-nav_order: 2
+nav_order: 5
 ---
 <div style="text-align: center; margin-top: 1rem;">
   <img src="{{ 'assets/headshot_artsy_071625.png' | relative_url }}"
