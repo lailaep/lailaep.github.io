@@ -3,7 +3,7 @@ layout: home
 title: Welcome
 nav_order: 1
 ---
-<img src="{{ 'assets/headshot_071525_sm.png' | relative_url }}" alt="Headshot" width="350" height="350" style="border-radius: 50%; display: block; margin: 0 auto 1em;" />
+<img src="{{ 'assets/headshot_artsy_071625.png' | relative_url }}" alt="Headshot" width="400" height="400" style="border-radius: 50%; display: block; margin: 0 auto 1em;" />
 
 # Hi, I'm Laila [E](https://www.youtube.com/watch?v=jsl3IBAsEH4){:target="_blank"}. Phillips!
 
