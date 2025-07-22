@@ -7,7 +7,14 @@ nav_order: 3
 ## I am still discovering new things to be excited about every day, but here are some of my current research interests!
 
 ### What determines host-microbe specificity?
-I am very curious about how specific associations between hosts and microbes evolve, particularly at a molecular level. Even a few genomic changes have a drastic effect on bacterial ecology. For example, in bee gut microbiomes, different strains of the same species of bacteria (_Snodgrassella alvi_) specifically associate with honeybees or bumblebees.
+<div style="display: flex; align-items: flex-start; gap: 1rem; margin-bottom: 2rem;">
+  <img src="{{ 'assets/adhesion_icon_lg.gif' | relative_url }}" alt="icon" width="100" height="100" style="flex-shrink: 0;" />
+  <p>
+    I am very curious about how specific associations between hosts and microbes evolve, particularly at a molecular level.
+    Even a few genomic changes have a drastic effect on bacterial ecology. For example, in bee gut microbiomes, different
+    strains of the same species of bacteria (<em>Snodgrassella alvi</em>) specifically associate with honeybees or bumblebees.
+  </p>
+</div>
 
 ### How do host-associated microbes colonize?
 Microbes are everywhere, but how do some manage to persist inside a host? I am interested in the strategies microbes use to do this--such as adhesion to host mucosal surfaces, evasion of host immune responses, and resistance to host antimicrobial effectors.
