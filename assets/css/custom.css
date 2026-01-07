@@ -1,0 +1,22 @@
+/* Full-bleed page background support */
+
+.page-wrapper.has-background {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+
+  padding: 4rem 1.5rem;
+}
+
+.page-wrapper.has-background .page-content {
+  max-width: 800px;
+  margin: 0 auto;
+
+  background: rgba(255, 255, 255, 0.88);
+  padding: 2rem;
+  border-radius: 12px;
+}
