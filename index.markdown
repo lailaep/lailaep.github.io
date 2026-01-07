@@ -2,6 +2,7 @@
 layout: page
 title: Welcome
 nav_order: 1
+background: home-bg.webp
 ---
 <div style="text-align: center; margin-top: 1rem;">
   <img src="{{ 'assets/headshot_artsy_071625.png' | relative_url }}"
