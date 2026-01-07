@@ -1,33 +1,42 @@
-/* Full-screen page background with parallax effect */
+/* Full-screen page background with parallax */
 .page-wrapper.has-background {
-  background-size: cover;           /* fill screen nicely */
-  background-position: center;      /* center the image */
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
 
-  width: 100vw;                     /* full viewport width */
-  min-height: 100vh;                /* at least full viewport height */
+  width: 100vw;
+  min-height: 100vh;
   
   display: flex;
   flex-direction: column;
-  justify-content: center;          /* vertical centering */
-  align-items: center;              /* horizontal centering */
+  justify-content: center;
+  align-items: center;
 
   padding: 2rem;
   box-sizing: border-box;
 
-  /* Parallax: background stays still while content scrolls */
+  /* Parallax: background stays fixed while content scrolls */
   background-attachment: fixed;
 }
 
 /* Content card to keep text readable */
 .page-wrapper.has-background .page-content {
-  max-width: 800px;                 /* prevents super wide text lines */
+  max-width: 800px;
   width: 100%;
-  background: rgba(255, 255, 255, 0.88);  /* semi-transparent white card */
+  background: rgba(255, 255, 255, 0.88);
   padding: 2rem;
   border-radius: 12px;
 
-  /* make sure it appears on top of the background */
+  /* ensure card sits above background */
   position: relative;
   z-index: 1;
+}
+
+/* Optional: center images inside content card */
+.page-wrapper.has-background .page-content img {
+  display: block;
+  margin: 0 auto;
+  max-width: 500px;
+  width: 100%;
+  height: auto;
 }
