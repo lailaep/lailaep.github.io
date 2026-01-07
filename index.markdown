@@ -4,12 +4,6 @@ title: Welcome
 nav_order: 1
 background: home-bg.webp
 ---
-<div style="text-align: center; margin-top: 1rem;">
-  <img src="{{ 'assets/headshot_artsy_071625.png' | relative_url }}"
-       alt="Me and my buddies :-)"
-       style="width: 100%; max-width: 500px; height: auto; aspect-ratio: auto;" />
-</div>
-
 # Hi, I'm Laila [E](https://www.youtube.com/watch?v=jsl3IBAsEH4){:target="_blank"}. Phillips!
 
 I am a PhD student in Dr. Nancy Moran's lab at The University of Texas at Austin, Austin, TX, USA.
