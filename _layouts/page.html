@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<div class="page-wrapper
-     {% if page.background %}has-background{% endif %}"
-     {% if page.background %}
-     style="background-image: url('{{ 'assets/backgrounds/' | append: page.background | relative_url }}');"
+{% assign has_bg = page.background | default: false %}
+
+<div class="page-wrapper {% if has_bg %}has-background{% endif %}"
+     {% if has_bg %}
+     style="background-image: url('{{ '/assets/backgrounds/' | append: page.background | relative_url }}');"
      {% endif %}>
 
-  <div class="page-content">
-    {{ content }}
-  </div>
+  <!-- Keep header, sidebar, and other theme elements -->
+  {{ content }}
 
 </div>
