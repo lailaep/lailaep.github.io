@@ -9,8 +9,9 @@ layout: default
      style="background-image: url('{{ '/assets/backgrounds/' | append: page.background | relative_url }}');"
      {% endif %}>
 
-  <!-- This keeps the Minima header, sidebar, and footer intact -->
-  {{ content }}
+  <div class="page-content">
+    {{ content }}
+  </div>
 
 </div>
 
