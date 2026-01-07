@@ -1,22 +1,33 @@
-/* Full-bleed page background support */
-
+/* Full-screen page background with parallax effect */
 .page-wrapper.has-background {
-  background-size: cover;
-  background-position: center;
+  background-size: cover;           /* fill screen nicely */
+  background-position: center;      /* center the image */
   background-repeat: no-repeat;
 
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
+  width: 100vw;                     /* full viewport width */
+  min-height: 100vh;                /* at least full viewport height */
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;          /* vertical centering */
+  align-items: center;              /* horizontal centering */
 
-  padding: 4rem 1.5rem;
+  padding: 2rem;
+  box-sizing: border-box;
+
+  /* Parallax: background stays still while content scrolls */
+  background-attachment: fixed;
 }
 
+/* Content card to keep text readable */
 .page-wrapper.has-background .page-content {
-  max-width: 800px;
-  margin: 0 auto;
-
-  background: rgba(255, 255, 255, 0.88);
+  max-width: 800px;                 /* prevents super wide text lines */
+  width: 100%;
+  background: rgba(255, 255, 255, 0.88);  /* semi-transparent white card */
   padding: 2rem;
   border-radius: 12px;
+
+  /* make sure it appears on top of the background */
+  position: relative;
+  z-index: 1;
 }
