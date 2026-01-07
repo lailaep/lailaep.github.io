@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="page-wrapper
+     {% if page.background %}has-background{% endif %}"
+     {% if page.background %}
+     style="background-image: url('{{ 'assets/backgrounds/' | append: page.background | relative_url }}');"
+     {% endif %}>
+
+  <div class="page-content">
+    {{ content }}
+  </div>
+
+</div>
