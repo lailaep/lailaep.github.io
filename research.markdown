@@ -57,9 +57,11 @@ nav_order: 3
 
 #### Relevant publications:
 <p>
-<a href="https://doi.org/10.1099/ijsem.0.006516"> Phillips et al., IJSEM (2024): Characterization of gut symbionts from wild-caught Drosophila and other Diptera: description of Utexia brackfieldae gen. nov., sp. nov., Orbus sturtevantii sp. nov., Orbus wheelerorum sp. nov, and Orbus mooreae sp. nov. </a> 
+  <a href="https://doi.org/10.1099/ijsem.0.006516"> Phillips et al., IJSEM (2024): Characterization of gut symbionts from wild-caught Drosophila and other Diptera: description of Utexia brackfieldae gen. nov., sp. nov., Orbus sturtevantii sp. nov., Orbus wheelerorum sp. nov, and Orbus mooreae sp. nov. 
+  </a> 
   </p>
 <p>
-<a href="https://doi.org/10.1038/s43705-023-00255-3"> Elston et al., ISME Communications (2023): The Pathfinder plasmid toolkit for genetically engineering newly isolated bacteria enables the study of Drosophila-colonizing Orbaceae
+  <a href="https://doi.org/10.1038/s43705-023-00255-3"> Elston et al., ISME Communications (2023): The Pathfinder plasmid toolkit for genetically engineering newly isolated bacteria enables the study of Drosophila-colonizing Orbaceae
+  </a>
   </p>
 </div>
