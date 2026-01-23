@@ -60,7 +60,7 @@ nav_order: 3
   </p>
 </div>
 
-#### Relevant publications
+#### Relevant publications:
 
 <p>
   <a href="https://doi.org/10.1099/ijsem.0.006516">
