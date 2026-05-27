@@ -60,6 +60,11 @@ nav_order: 3
   </p>
 </div>
 
+### Approaches:
+<p>
+  I enjoy coming up with creative ways to tackle complex questions! I have had the pleasure of working on projects that require diverse techniques, and I love work that requires both physical and computational methods. My first love is classical culture-based microbiology and all that it entails, but I have also developed skills in genomics, bioinformatics, proteomics, microscopy, and genetic engineering, among other things!
+</p>
+
 #### Relevant publications:
 
 <p>
