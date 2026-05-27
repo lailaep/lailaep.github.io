@@ -27,7 +27,7 @@ nav_order: 3
   <p>
     I am very curious about how specific associations between hosts and microbes evolve, particularly at a molecular level.
     Even a few genomic changes have a drastic effect on bacterial ecology. For example, in bee gut microbiomes, different
-    strains of the same species of bacteria (<em>Snodgrassella alvi</em>) specifically associate with honeybees or bumblebees, and we have recently observed major differences in the ability of closely-related bacteria (family: <em>Orbaceae</em>) to colonize a specific genetic background of <em>Drosophila melanogaster. </em>
+    strains of the same species of bacteria (<em>Snodgrassella alvi</em>) specifically associate with honeybees or bumblebees, and we have recently observed major differences in the ability of closely-related bacteria (family: <em>Orbaceae</em>) to colonize specific genetic backgrounds of <em>Drosophila melanogaster. </em>
   </p>
 </div>
 
